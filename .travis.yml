@@ -12,7 +12,8 @@ install:
 
 script:
   - cd Foodezz
-  - python manage.py test
+  - python manage.py check
+  - coverage run manage.py test
 
 after_success:
   coveralls
