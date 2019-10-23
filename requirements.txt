@@ -10,7 +10,7 @@ idna==2.8
 mysql-connector-python==8.0.17
 oauthlib==3.1.0
 Pillow==6.2.1
-protobuf==3.9.1
+protobuf==3.10.0
 PyJWT==1.7.1
 python3-openid==3.1.0
 pytz==2019.2
@@ -34,7 +34,7 @@ idna==2.8
 mysql-connector-python==8.0.17
 oauthlib==3.1.0
 Pillow==6.2.1
-protobuf==3.9.1
+protobuf==3.10.0
 PyJWT==1.7.1
 python3-openid==3.1.0
 pytz==2019.2
