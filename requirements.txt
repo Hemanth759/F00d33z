@@ -1,8 +1,8 @@
 certifi==2019.11.28
 chardet==3.0.4
 defusedxml==0.6.0
+django-crispy-forms==1.9.2
 Django==3.1
-django-crispy-forms==1.8.1
 django-materialize==1.0.1a2
 django-mysql==3.8.1
 django-widget-tweaks==1.4.5
@@ -23,8 +23,6 @@ urllib3==1.25.10
 certifi==2019.11.28
 chardet==3.0.4
 defusedxml==0.6.0
-Django==3.1
-django-crispy-forms==1.8.1
 django-materialize==1.0.1a2
 django-mysql==3.8.1
 django-paypal==1.0.0
